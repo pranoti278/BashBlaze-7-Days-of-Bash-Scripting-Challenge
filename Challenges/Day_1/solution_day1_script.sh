@@ -26,6 +26,6 @@ echo "Files with .txt extension in the current directory:"
 ls *.txt
 
 
-
+#end 
 #Make sure to provide execution permission with the following command:
 #chmod +x day1_script.sh
